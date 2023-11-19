@@ -2,3 +2,4 @@ This is test1
 This is test2
 This is test3
 logo alignment is center
+text problem solve
